@@ -1,0 +1,28 @@
+s1,
+s1
+Collection Time: 10/10/2023 11:11:21 AM
+Operator Name  :
+Scan Version 5.1.3.1042
+Parameter List :
+Instrument  Cary 60
+Instrument Version  2.00
+Start (nm)  1100.0
+Stop (nm)  190.0
+X Mode  Nanometers
+Y Mode  Abs
+UV-Vis Scan Rate (nm/min)  4800.00
+UV-Vis Data Interval (nm)  1.00
+UV-Vis Ave. Time (sec)  0.0125
+Beam Mode  Dual Beam
+Baseline Correction  Off
+Cycle Mode  Off
+Method Log     :
+Method Name    :
+Date/Time stamp: 10/10/2023 11:08:28 AM
+Method Modifications:
+Common Interval nm Changed: 10/10/2023 11:09:42 AM, Old:     5.00, New:     1.00
+X Start nm Changed: 10/10/2023 11:10:53 AM, Old:  800.0, New: 1100.0
+X Stop nm Changed: 10/10/2023 11:10:53 AM, Old:  200.0, New:  190.0
+Y Max Abs Changed: 10/10/2023 11:10:53 AM, Old:     1.00, New:     5.00
+End Method Modifications
+<Current Wavelength> , 231.0
